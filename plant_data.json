@@ -1,0 +1,584 @@
+{
+    "Rosa indica": {
+        "common_name": "Rose",
+        "inat_common_name": "roses",
+        "description": "Rosa cymosa is a species of climbing rose native to China, where it grows from the east coast in Fujian to western Sichuan at up to 1300 m, in warm areas in scrub and gorges, and in bamboo plantations. It is sometimes called the elderflower rose as its flower formation resembles elderberry (Sambucus) flowers.",
+        "fun_fact": "The name rose comes from Latin rosa, which was perhaps borrowed from Oscan, from Greek ῥόδον rhódon (Aeolic βρόδον wródon), itself borrowed from Old Persian wrd- (wurdi), related to Avestan varəδa, Sogdian ward, Parthian wâr.."
+    },
+    "Helianthus annuus": {
+        "common_name": "Sunflower",
+        "inat_common_name": "Common Sunflower",
+        "description": "The common sunflower is a species of large annual forb of the daisy family Asteraceae. The common sunflower is harvested for its edible oily seeds, which are often eaten as a snack food.",
+        "fun_fact": "Fun-fact not available"
+    },
+    "Hibiscus rosa-sinensis": {
+        "common_name": "Hibiscus",
+        "inat_common_name": "hibiscuses",
+        "description": "Hibiscus × rosa-sinensis, known colloquially as Chinese hibiscus, China rose, Hawaiian hibiscus, rose mallow and shoeblack plant, is a cultigen of tropical hibiscus, a flowering plant in the Hibisceae tribe of the family Malvaceae. It is an artificial hybrid created in cultivation in pre-European times by Polynesians in the west Pacific from the species Hibiscus cooperi and H.",
+        "fun_fact": "Several species are widely cultivated as ornamental plants, notably Hibiscus syriacus and Hibiscus × rosa-sinensis.."
+    },
+    "Tagetes erecta": {
+        "common_name": "Marigold",
+        "inat_common_name": "pot marigold",
+        "description": "Tagetes erecta, the Aztec marigold, Mexican marigold, big marigold, cempaxochitl or cempasúchil, is a species of flowering plant in the genus Tagetes native to Mexico and Guatemala. Despite being native to the Americas, it is often called the African marigold.",
+        "fun_fact": "This plant reaches heights of between 20 and 90 cm (7.9 and 35."
+    },
+    "Jasminum sambac": {
+        "common_name": "Jasmine",
+        "inat_common_name": "jasmine",
+        "description": "Jasminum sambac is a species of jasmine native to Bhutan and India. It is cultivated in many places, especially West Asia, South Asia and Southeast Asia.",
+        "fun_fact": "Jasminum sambac is a small shrub or vine growing up to 0.5 to 3 m (1."
+    },
+    "Lavandula angustifolia": {
+        "common_name": "Lavender",
+        "inat_common_name": "Lavenders",
+        "description": "Lavandula angustifolia, formerly L. officinalis, is a flowering plant in the family Lamiaceae, native to the Mediterranean.",
+        "fun_fact": "It is a strongly aromatic shrub growing as high as 1 to 2 metres (3+1⁄2 to 6+1⁄2 ft) tall. The leaves are evergreen,  2–6 centimetres (1–2+1⁄2 inches) long, and 4–6 millimetres (3⁄16–1⁄4 in) broad."
+    },
+    "Orchidaceae spp.": {
+        "common_name": "Orchid",
+        "inat_common_name": "agaves, orchids, irises, and allies",
+        "description": "Orchids are plants that belong to the family Orchidaceae, a diverse and widespread group of flowering plants with blooms that are often colourful and fragrant. Orchids are cosmopolitan plants that are found in almost every habitat on Earth except glaciers.",
+        "fun_fact": "Orchidaceae is one of the two largest families of flowering plants, the other being the Asteraceae. It contains about 28,000 currently accepted species in 702 genera."
+    },
+    "Lilium spp.": {
+        "common_name": "Lily",
+        "inat_common_name": "true lilies",
+        "description": "Lilium is a genus of herbaceous flowering plants growing from bulbs, all with large and often prominent flowers. Lilies are a group of flowering plants which are important in culture and literature in much of the world.",
+        "fun_fact": "Fun-fact not available"
+    },
+    "Tulipa spp.": {
+        "common_name": "Tulip",
+        "inat_common_name": "tulips",
+        "description": "Tulips are spring-blooming perennial herbaceous bulbiferous geophytes in the Tulipa genus. Their flowers are usually large, showy, and brightly coloured, generally red, orange, pink, yellow, or white.",
+        "fun_fact": "There are about 75 species, and these are divided among four subgenera. The name \"tulip\" is thought to be derived from a Persian word for turban, which it may have been thought to resemble by those who discovered it."
+    },
+    "Bellis perennis": {
+        "common_name": "Daisy",
+        "inat_common_name": "sunflowers, daisies, asters, and allies",
+        "description": "Bellis perennis, the daisy, is a European species of the family Asteraceae, often considered the archetypal species of the name daisy. To distinguish this species from other plants known as daisies, it is sometimes qualified or known as common daisy, lawn daisy or English daisy.",
+        "fun_fact": "Bellis perennis is a perennial herbaceous plant growing to 20 centimetres (8 inches) in height. It has short creeping rhizomes and rosettes of small rounded or spoon-shaped leaves that are from 2 to 5 cm (3⁄4–2 in) long and grow flat to the ground."
+    },
+    "Bougainvillea glabra": {
+        "common_name": "Bougainvillea",
+        "inat_common_name": "bougainvilleas",
+        "description": "Bougainvillea glabra, the lesser bougainvillea or paperflower, is the most common species of bougainvillea used for bonsai. The epithet 'glabra' comes from Latin and means \"bald\".",
+        "fun_fact": "It is an evergreen, climbing shrub that usually grows 3–3.5 m (10–12 ft) tall, occasionally up to 9 m (30 ft)."
+    },
+    "Chrysanthemum indicum": {
+        "common_name": "Chrysanthemum",
+        "inat_common_name": "chrysanthemums",
+        "description": "Chrysanthemum indicum is a flowering plant commonly called Indian chrysanthemum, within the family Asteraceae and genus Chrysanthemum..",
+        "fun_fact": "Chrysanthemum indicum grows up to 1 m (3 ft) tall and 0.6 m (2 ft) across."
+    },
+    "Nelumbo nucifera": {
+        "common_name": "Lotus",
+        "inat_common_name": "bird's-foot trefoils",
+        "description": "Nelumbo nucifera, also known as Padma or Kamala, sacred lotus, pink lotus, Indian lotus, or simply lotus, is one of two extant species of aquatic plant in the family Nelumbonaceae. It is sometimes colloquially called a water lily, though this more often refers to members of the family Nymphaeaceae.",
+        "fun_fact": "Lotus plants are adapted to grow in the flood plains of slow-moving rivers and delta areas. Stands of lotus drop hundreds of thousands of seeds every year to the bottom of the pond."
+    },
+    "Pelargonium spp.": {
+        "common_name": "Geranium",
+        "inat_common_name": "geraniums and cranesbills",
+        "description": "Geranium is a genus of 422 species of annual, biennial, and perennial plants that are commonly known as geraniums or cranesbills. They are found throughout the temperate regions of the world and the mountains of the tropics, with the greatest diversity in the eastern part of the Mediterranean region.",
+        "fun_fact": "The palmately cleft leaves are broadly circular in form. The flowers have five petals and are coloured white, pink, purple, or blue, often with distinctive veining."
+    },
+    "Narcissus spp.": {
+        "common_name": "Daffodil",
+        "inat_common_name": "wild daffodil",
+        "description": "Narcissus is a genus of predominantly spring flowering perennial plants of the amaryllis family, Amaryllidaceae. Various common names including daffodil, narcissus, and jonquil, are used to describe some or all members of the genus.",
+        "fun_fact": "Fun-fact not available"
+    },
+    "Petunia spp.": {
+        "common_name": "Petunia",
+        "inat_common_name": "petunias",
+        "description": "Petunia is a genus of 20 species of flowering plants of South American origin. The popular flower of the same name derived its epithet from the French, which took the word pétun, 'tobacco', from a Tupi–Guarani language.",
+        "fun_fact": "Petunia is a genus in the family Solanaceae, subfamily Petunioideae. Well known members of Solanaceae in other subfamilies include tobacco (subfamily Nicotianoideae), and the cape gooseberry, tomato, potato, deadly nightshade and chili pepper (subfamily Solanoideae)."
+    },
+    "Zinnia elegans": {
+        "common_name": "Zinnia",
+        "inat_common_name": "Zinnias",
+        "description": "Zinnia elegans known as youth-and-age, common zinnia or elegant zinnia, is an annual flowering plant in the family Asteraceae. It is native to Mexico but grown as an ornamental in many places and naturalised in several places, including scattered locations in South and Central America, the West Indies, the United States, Australia, and Italy.",
+        "fun_fact": "The uncultivated plant grows to about 15 cm (5.27 in) in height."
+    },
+    "Dianthus caryophyllus": {
+        "common_name": "Carnation",
+        "inat_common_name": "carnations",
+        "description": "Dianthus caryophyllus, commonly known as carnation or clove pink, is a species of Dianthus native to the Mediterranean region. Its exact natural range is uncertain due to extensive cultivation over the last 2,000 years.",
+        "fun_fact": "The scent of carnations is often described as spicy, clove-like, or reminiscent of a combination of cinnamon and nutmeg, hence the common name \"clove pink\". This aroma has made carnations a popular choice for use in perfumes, potpourri, and scented products."
+    },
+    "Ipomoea purpurea": {
+        "common_name": "Morning Glory",
+        "inat_common_name": "bindweed family",
+        "description": "Ipomoea purpurea, the common morning-glory, tall morning-glory, or purple morning glory, is a species in the genus Ipomoea, native to Mexico and Central America..",
+        "fun_fact": "Like all morning glories, the plant entwines itself around structures, growing to a height of 2–3 m (6 ft 7 in – 9 ft 10 in) tall. The leaves are heart-shaped and the stems are covered with brown hairs."
+    },
+    "Antirrhinum majus": {
+        "common_name": "Snapdragon",
+        "inat_common_name": "Snapdragon",
+        "description": "Antirrhinum majus, the common snapdragon, is a species of flowering plant belonging to the genus Antirrhinum. The plant was placed in the family Plantaginaceae following a revision of its prior classical family, Scrophulariaceae.",
+        "fun_fact": "The common name \"snapdragon\", originates from the flowers' reaction to having their throats squeezed, which causes the \"mouth\" of the flower to snap open like a dragon's mouth. It is widely used as an ornamental plant in borders and as a cut flower."
+    },
+    "Papaver rhoeas": {
+        "common_name": "Poppy",
+        "inat_common_name": "poppy family",
+        "description": "Papaver rhoeas, with common names including common poppy, corn poppy, corn rose, field poppy, Flanders poppy, red poppy, and Odai, is an annual herbaceous species of flowering plant in the poppy family Papaveraceae. It is native to north Africa and temperate Eurasia and is introduced into temperate areas on all other continents except Antarctica.",
+        "fun_fact": "It is regarded as an agricultural weed (hence the common names including \"corn\" and \"field\"). As the plant thrives in areas of disturbed soil, it was often abundant in agricultural fields before the advent of herbicides."
+    },
+    "Gladiolus spp.": {
+        "common_name": "Gladiolus",
+        "inat_common_name": "Gladioli",
+        "description": "Gladiolus is a genus of perennial cormous flowering plants in the iris family (Iridaceae)..",
+        "fun_fact": "It is sometimes called the 'sword lily', but is usually called by its generic name (plural gladioli).."
+    },
+    "Camellia japonica": {
+        "common_name": "Camellia",
+        "inat_common_name": "Camellias",
+        "description": "Camellia japonica, known as common camellia, or Japanese camellia, is a species of Camellia, a flowering plant genus in the family Theaceae. There are thousands of cultivars of C.",
+        "fun_fact": "Camellia japonica is a flowering tree or shrub, usually 1.5–6 metres (4."
+    },
+    "Dahlia pinnata": {
+        "common_name": "Dahlia",
+        "inat_common_name": "Dahlias",
+        "description": "Dahlia pinnata is a species in the genus Dahlia, family Asteraceae, with the common name garden dahlia. It is the type species of the genus and is widely cultivated.",
+        "fun_fact": "Dahlia pinnata is a perennial herbaceous plant with a rhizome and tuberous roots, reaching a height of 70 to 120 centimetres (28 to 47 inches), rarely 160 cm. The stem is erect, and branched only in the inflorescence."
+    },
+    "Cosmos bipinnatus": {
+        "common_name": "Cosmos",
+        "inat_common_name": "Cosmoses",
+        "description": "Cosmos bipinnatus, commonly called the garden cosmos, Mexican aster or cosmea, is a medium-sized flowering herbaceous plant in the daisy family Asteraceae, native to the Americas. The species and its varieties and cultivars are popular as ornamental plants in temperate climate gardens.",
+        "fun_fact": "Cosmos bipinnatus is an annual that is often considered half-hardy, although plants may reappear via self-sowing for several years. The plant height varies from 2–6 ft to (rarely) 9 ft (0."
+    },
+    "Mangifera indica": {
+        "common_name": "Mango Tree",
+        "inat_common_name": "Indian mango",
+        "description": "Mangifera indica, commonly known as mango, is an evergreen species of flowering plant in the family Anacardiaceae. It is a large fruit tree, capable of growing to a height and width of 30 m (100 ft).",
+        "fun_fact": "Mangifera indica is a large green tree, valued mainly for its fruits, both green and ripe. Approximately 500–1000 varieties have been identified, named, or reported, primarily in India."
+    },
+    "Musa spp.": {
+        "common_name": "Banana",
+        "inat_common_name": "Bananas",
+        "description": "Musa is one of three genera in the family Musaceae. The genus includes 83 species of flowering plants producing edible bananas and plantains, and fiber (abacá), used to make paper and cloth.",
+        "fun_fact": "Musa species are native to tropical Indomalaya and Australia; they were probably domesticated in New Guinea. They are grown in 135 countries, primarily for their fruit, and to a lesser extent to make banana paper and textiles, while some are grown as ornamental plants."
+    },
+    "Citrus sinensis": {
+        "common_name": "Orange",
+        "inat_common_name": "Orange",
+        "description": "Citrus × sinensis, a hybrid between pomelo and mandarin, also known as the sweet oranges, is a commonly cultivated species of orange that includes Valencia oranges, blood oranges and navel oranges..",
+        "fun_fact": "Orange (colour), the color of an orange fruit, occurs between red and yellow in the visible light spectrum."
+    },
+    "Malus domestica": {
+        "common_name": "Apple",
+        "inat_common_name": "apples and crabapples",
+        "description": "An apple is the round, edible fruit of an apple tree. Fruit trees of the orchard or domestic apple, the most widely grown in the genus, are cultivated worldwide.",
+        "fun_fact": "Apples grown from seeds tend to be very different from those of their parents, and the resultant fruit frequently lacks desired characteristics. For commercial purposes, including botanical evaluation, apple cultivars are propagated by clonal grafting onto rootstocks."
+    },
+    "Psidium guajava": {
+        "common_name": "Guava Tree",
+        "inat_common_name": "Common Guava",
+        "description": "Psidium guajava, the common guava, yellow guava, lemon guava, or apple guava is an evergreen shrub or small tree native to the Americas. It is pollinated by insects.",
+        "fun_fact": "Widely cultivated in tropical and subtropical regions around the world, guava fruits can range in size from as small as an apricot to as large as a grapefruit. Various cultivars have white, pink, or red flesh; a few varieties feature red (instead of green or yellow) skin."
+    },
+    "Carica papaya": {
+        "common_name": "Papaya",
+        "inat_common_name": "Papaya",
+        "description": "The papaya, papaw, or pawpaw is the plant species Carica papaya, one of the 21 accepted species in the genus Carica of the family Caricaceae, and also the name of its fruit. It was first domesticated in Mesoamerica, within modern-day southern Mexico and Central America.",
+        "fun_fact": "The word papaya derives from the Caribbean Taíno \"paapaía\" and is also the name for the plant. Some etymologists argue that the word comes from the Mayan \"páapay-ya\", which means \"mottled sapote\"."
+    },
+    "Ananas comosus": {
+        "common_name": "Pineapple",
+        "inat_common_name": "pineapple",
+        "description": "The pineapple is a tropical plant with an edible fruit; it is the most economically significant plant in the family Bromeliaceae..",
+        "fun_fact": "The pineapple is indigenous to South America, where it has been cultivated for many centuries. The introduction of the pineapple plant to Europe in the 17th century made it a significant cultural icon of luxury."
+    },
+    "Citrullus lanatus": {
+        "common_name": "Watermelon",
+        "inat_common_name": "Watermelon",
+        "description": "The watermelon is a species of flowering plant in the family Cucurbitaceae, that has a large, edible fruit. It is a scrambling and trailing vine-like plant, and is widely cultivated worldwide, with more than 1,000 varieties.",
+        "fun_fact": "Watermelons are grown in favorable climates from tropical to temperate regions worldwide for its large edible fruit, which is a berry with a hard rind and no internal divisions, and is botanically called a pepo. The sweet, juicy flesh is usually deep red to pink, with many black seeds, although seedless varieties exist."
+    },
+    "Vitis vinifera": {
+        "common_name": "Grape",
+        "inat_common_name": "grapevines",
+        "description": "Vitis vinifera, the common grape vine, is a species of flowering plant, native to the Mediterranean region, Central Europe, and southwestern Asia, from Morocco and Portugal north to southern Germany and east to northern Iran. As of 2012, there were between 5,000 and 10,000 varieties of Vitis vinifera grapes though only a few are of commercial significance for wine and table grape production.",
+        "fun_fact": "The wild grape is often classified as Vitis vinifera sylvestris (in some classifications considered Vitis sylvestris), with Vitis vinifera vinifera restricted to cultivated forms. Domesticated vines have hermaphrodite flowers, but sylvestris is dioecious (male and female flowers on separate plants) and pollination is required for fruit to develop."
+    },
+    "Citrus limon": {
+        "common_name": "Lemon",
+        "inat_common_name": "Lemon",
+        "description": "The lemon is a species of small evergreen tree in the Citrus genus of the flowering plant family Rutaceae. A true lemon is a hybrid of the citron and the bitter orange.",
+        "fun_fact": "The yellow fruit of the lemon tree is used throughout the world, primarily for its juice. The pulp and rind are used in cooking and baking."
+    },
+    "Cocos nucifera": {
+        "common_name": "Coconut",
+        "inat_common_name": "coconut palm",
+        "description": "The coconut tree is a member of the palm tree family (Arecaceae) and the only living species of the genus Cocos. The term \"coconut\" can refer to the whole coconut palm, the seed, or the fruit, which botanically is a drupe, not a nut.",
+        "fun_fact": "The coconut tree provides food, fuel, cosmetics, folk medicine and building materials, among many other uses. The inner flesh of the mature seed, as well as the coconut milk extracted from it, forms a regular part of the diets of many people in the tropics and subtropics."
+    },
+    "Persea americana": {
+        "common_name": "Avocado",
+        "inat_common_name": "Avocado",
+        "description": "The avocado, alligator pear or avocado pear is an evergreen tree in the laurel family (Lauraceae). It is native to the Americas and was first domesticated in Mesoamerica more than 5,000 years ago.",
+        "fun_fact": "Its fruit, sometimes also referred to as an alligator pear or avocado pear, is botanically a large berry containing a single large seed. Sequencing of its genome showed that the evolution of avocados was shaped by polyploidy events and that commercial varieties have a hybrid origin."
+    },
+    "Fragaria × ananassa": {
+        "common_name": "Strawberry",
+        "inat_common_name": "garden strawberry",
+        "description": "The garden strawberry is a widely grown hybrid plant cultivated worldwide for its fruit. The genus Fragaria, the strawberries, is in the rose family, Rosaceae.",
+        "fun_fact": "The garden strawberry was first bred in Brittany, France, in the 1750s via a cross of F. virginiana from eastern North America and F."
+    },
+    "Pyrus communis": {
+        "common_name": "Pear",
+        "inat_common_name": "Common Pear",
+        "description": "Pyrus communis, the common pear, is a species of pear native to central and eastern Europe, and western Asia..",
+        "fun_fact": "It is one of the most important fruits of temperate regions, being the species from which most orchard pear cultivars grown in Europe, North America, and Australia have been developed. Two other species of pear, the Nashi pear (Pyrus pyrifolia) and the hybrid Chinese white or ya pear (Pyrus × bretschneideri, Chinese: 白梨; pinyin: báilí) are more widely grown in East Asia."
+    },
+    "Prunus avium": {
+        "common_name": "Cherry",
+        "inat_common_name": "plums, cherries, and allies",
+        "description": "Prunus avium, commonly called wild cherry, sweet cherry or gean is a species of cherry, a flowering plant in the rose family, Rosaceae. It is native to Eurasia and naturalized elsewhere.",
+        "fun_fact": "All parts of the plant except for the ripe fruit are slightly toxic, containing cyanogenic glycosides. The species is often cultivated as an ornamental tree."
+    },
+    "Prunus domestica": {
+        "common_name": "Plum",
+        "inat_common_name": "Plum",
+        "description": "Prunus domestica is a species of flowering plant in the family Rosaceae. A deciduous tree, it includes many varieties of the fruit trees known as plums in English, though not all plums belong to this species.",
+        "fun_fact": "It typically forms a large shrub or a small tree. It may be somewhat thorny, with white blossom, borne in early spring."
+    },
+    "Ficus carica": {
+        "common_name": "Fig",
+        "inat_common_name": "Common Vetch",
+        "description": "The fig is the edible fruit of Ficus carica, a species of tree or shrub in the flowering plant family Moraceae, native to the Mediterranean region, together with western and southern Asia. It has been cultivated since ancient times and is now widely grown throughout the world.",
+        "fun_fact": "A fig plant is a deciduous tree or large shrub, growing up to 7–10 m (23–33 ft) tall, with smooth white bark. Its large leaves have three to five deep lobes."
+    },
+    "Olea europaea": {
+        "common_name": "Olive",
+        "inat_common_name": "Olive",
+        "description": "The olive, botanical name Olea europaea, is a species of subtropical evergreen tree in the family Oleaceae. Originating in Asia Minor, it is abundant throughout the Mediterranean Basin, with wild subspecies in Africa and western Asia; modern cultivars are traced primarily to the Near East, Aegean Sea, and Strait of Gibraltar.",
+        "fun_fact": "The olive has deep historical, economic, and cultural significance in the Mediterranean; Georges Duhamel remarked that the \"Mediterranean ends where the olive tree no longer grows\". Among the oldest fruit trees domesticated by humans, the olive was first cultivated in the Eastern Mediterranean between 8,000 and 6,000 years ago, most likely in the Levant."
+    },
+    "Actinidia deliciosa": {
+        "common_name": "Kiwi",
+        "inat_common_name": "Kiwi",
+        "description": "Actinidia chinensis var. deliciosa, also known as Actinidia deliciosa, green kiwifruit or the fuzzy kiwifruit, is a fruiting vine native to central Southern China, growing naturally at altitudes between 800 and 1,400 metres.",
+        "fun_fact": "Kiwi (nickname), an informal name for New Zealanders."
+    },
+    "Punica granatum": {
+        "common_name": "Pomegranate",
+        "inat_common_name": "pomegranate",
+        "description": "The pomegranate is a fruit-bearing, deciduous shrub in the family Lythraceae, subfamily Punicoideae, that grows between 5 and 10 m tall. Rich in symbolic and mythological associations in many cultures, it is thought to have originated from Afghanistan and Iran before being introduced and exported to other parts of Asia, Africa, and Europe.",
+        "fun_fact": "It was introduced into Spanish America in the late 16th century and into California by Spanish settlers in 1769. It is widely cultivated throughout West Asia and the Caucasus region, South Asia, Central Asia, north and tropical Africa, the drier parts of Southeast Asia, and the Mediterranean Basin."
+    },
+    "Passiflora edulis": {
+        "common_name": "Passionfruit",
+        "inat_common_name": "Passionfruit Family",
+        "description": "Passiflora edulis, commonly known as passion fruit, is a vine species of passion flower. The fruit is a pepo, a type of botanical berry, round to oval, either yellow or dark purple at maturity, with a soft to firm, juicy interior filled with numerous seeds.",
+        "fun_fact": "The plant is native to the region of southern Brazil through Paraguay to northern Argentina. It is cultivated commercially in tropical and subtropical areas for its sweet, seedy fruit."
+    },
+    "Artocarpus heterophyllus": {
+        "common_name": "Jackfruit",
+        "inat_common_name": "Jackfruit",
+        "description": "The jackfruit or nangka is a species of tree in the fig, mulberry, and breadfruit family (Moraceae)..",
+        "fun_fact": "The jackfruit is the largest tree fruit, reaching as much as 55 kg (120 pounds) in weight, 90 cm (35 inches) in length, and 50 cm (20 inches) in diameter. A mature jackfruit tree produces some 200 fruits per year, with older trees bearing up to 500 fruits in a year."
+    },
+    "Hylocereus undatus": {
+        "common_name": "Dragon Fruit",
+        "inat_common_name": "Night-blooming Cereus",
+        "description": "Selenicereus undatus, the white-fleshed pitahaya, is a species of the genus Selenicereus in the family Cactaceae and is the most cultivated species in the genus. It is used both as an ornamental vine and as a fruit crop, the pitahaya or dragon fruit.",
+        "fun_fact": "Fun-fact not available"
+    },
+    "Phoenix dactylifera": {
+        "common_name": "Date Palm",
+        "inat_common_name": "Date Palm",
+        "description": "Phoenix dactylifera, commonly known as the date palm, is a flowering-plant species in the palm family Arecaceae, cultivated for its edible sweet fruit called dates. The species is widely cultivated across northern Africa, the Middle East, the Horn of Africa, Australia, South Asia, and the desert regions of Southern California in the United States.",
+        "fun_fact": "Fun-fact not available"
+    },
+    "Litchi chinensis": {
+        "common_name": "Lychee",
+        "inat_common_name": "Lychee",
+        "description": "Lychee is a monotypic taxon and the sole member in the genus Litchi in the soapberry family, Sapindaceae..",
+        "fun_fact": "There are three distinct subspecies of lychee. The most common is the Indochinese lychee found in South China, Malaysia, and northern Vietnam."
+    },
+    "Azadirachta indica": {
+        "common_name": "Neem",
+        "inat_common_name": "Neem",
+        "description": "Azadirachta indica, commonly known as neem, margosa, nimtree or Indian lilac, is a tree in the mahogany family Meliaceae. It is one of the two species in the genus Azadirachta.",
+        "fun_fact": "Margosa is a fast-growing tree that can reach a height of 15–20 metres (49–66 ft), and rarely 35–40 m (115–131 ft). It is evergreen, shedding many of its leaves during the dry winter months."
+    },
+    "Acacia spp.": {
+        "common_name": "Acacia",
+        "inat_common_name": "wattles",
+        "description": "Acacia, commonly known as wattles or acacias, is a genus of about 1,084 species of shrubs and trees in the subfamily Mimosoideae of the pea family Fabaceae. Initially, it comprised a group of plant species native to Africa, South America, and Australasia, but is now reserved for species mainly from Australia, with others from New Guinea, Southeast Asia, and the Indian Ocean.",
+        "fun_fact": "Several species of Acacia have been introduced to various parts of the world, and two million hectares of commercial plantations have been established.."
+    },
+    "Eucalyptus globulus": {
+        "common_name": "Eucalyptus",
+        "inat_common_name": "eucalyptus",
+        "description": "Eucalyptus globulus, commonly known as southern blue gum or blue gum, is a species of flowering plant in the family Myrtaceae. It is a tall, evergreen tree endemic to southeastern Australia.",
+        "fun_fact": "There are four subspecies, each with a different distribution across Australia, occurring in New South Wales, Victoria and Tasmania. The subspecies are the Victorian blue gum, Tasmanian blue gum, Maiden's gum, and Victorian eurabbie."
+    },
+    "Adansonia digitata": {
+        "common_name": "Baobab",
+        "inat_common_name": "Baobabs",
+        "description": "Adansonia digitata, the African baobab, is the most widespread tree species of the genus Adansonia, the baobabs, and is native to the African continent and the southern Arabian Peninsula. These are long-lived pachycauls; radiocarbon dating has shown at least one individual to be 1,275 years old.",
+        "fun_fact": "African baobabs are trees that often grow as solitary individuals, and are large and distinctive elements of savanna or scrubland vegetation. They grow to a height of 5–25 metres (16–82 feet)."
+    },
+    "Acer spp.": {
+        "common_name": "Maple",
+        "inat_common_name": "Maples",
+        "description": "Acer is a genus of trees and shrubs commonly known as maples. The genus is placed in the soapberry family Sapindaceae.",
+        "fun_fact": "The closest relative of Acer is Dipteronia, which only has two living species in China, but has a fossil record extending back to the middle Paleocene in North America. The oldest known fossils of Acer are from the late Paleocene of Northeast Asia and northern North America, around 60 million years old."
+    },
+    "Quercus spp.": {
+        "common_name": "Oak",
+        "inat_common_name": "oaks",
+        "description": "An oak is a hardwood tree or shrub in the genus Quercus of the beech family. They have spirally arranged leaves, often with lobed edges, and a nut called an acorn, borne within a cup.",
+        "fun_fact": "Ecologically, oaks are keystone species in habitats from Mediterranean semi-desert to subtropical rainforest. They live in association with many kinds of fungi including truffles."
+    },
+    "Pinus spp.": {
+        "common_name": "Pine",
+        "inat_common_name": "conifers",
+        "description": "A pine is any conifer tree or shrub in the genus Pinus of the family Pinaceae. Pinus is the sole genus in the subfamily Pinoideae.",
+        "fun_fact": "World Flora Online accepts 134 species-rank taxa (119 species and 15 nothospecies) of pines as current, with additional synonyms, and Plants of the World Online 126 species-rank taxa (113 species and 13 nothospecies), making it the largest genus among the conifers. The highest species diversity of pines is found in Mexico."
+    },
+    "Tamarindus indica": {
+        "common_name": "Tamarind",
+        "inat_common_name": "Tamarind",
+        "description": "Tamarind is a leguminous tree bearing edible fruit that is indigenous to tropical Africa and naturalized in Asia. The genus Tamarindus is monotypic, meaning that it contains only this species.",
+        "fun_fact": "The tamarind tree produces brown, pod-like fruits that contain a sweet, tangy pulp, which is used in cuisines around the world. The pulp is also used in traditional medicine and as a metal polish."
+    },
+    "Arecaceae spp.": {
+        "common_name": "Palm",
+        "inat_common_name": "Palms",
+        "description": "Palm most commonly refers to:Palm of the hand, the central region of the front of the hand\nPalm plants, of family Arecaceae\nList of Arecaceae genera\nPalm oil\nSeveral other plants known as \"palm\".",
+        "fun_fact": "Palms (band), an American rock band featuring members of Deftones and Isis."
+    },
+    "Hevea brasiliensis": {
+        "common_name": "Rubber Tree",
+        "inat_common_name": "Rubber Tree",
+        "description": "Hevea brasiliensis, the Pará rubber tree, sharinga tree, seringueira, or most commonly, rubber tree or rubber plant, is a flowering plant belonging to the spurge family, Euphorbiaceae, originally native to the Amazon basin, but is now pantropical in distribution due to introductions. It is the most economically important member of the genus Hevea because the milky latex extracted from the tree is the primary source of natural rubber.",
+        "fun_fact": "Hevea brasiliensis is a tall deciduous tree growing to a height of up to 43 m (141 ft) in the wild. Cultivated trees are usually much smaller because drawing off the latex restricts their growth."
+    },
+    "Tectona grandis": {
+        "common_name": "Teak",
+        "inat_common_name": "Teak",
+        "description": "Teak is a tropical hardwood tree species in the family Lamiaceae. It is a large, deciduous tree that occurs in mixed hardwood forests.",
+        "fun_fact": "Tectona grandis is native to south and southeast Asia, mainly Bangladesh, India, Indonesia, Malaysia, Myanmar, Thailand, and Sri Lanka, but is naturalised and cultivated in many countries in Africa and the Caribbean. Myanmar's teak forests account for nearly half of the world's naturally occurring teak."
+    },
+    "Swietenia macrophylla": {
+        "common_name": "Mahogany",
+        "inat_common_name": "Mahogany",
+        "description": "Swietenia macrophylla, commonly known as mahogany, Honduran mahogany, Honduras mahogany, or big-leaf mahogany is a species of plant in the Meliaceae family. It is one of three species that yields genuine mahogany timber (Swietenia), the others being Swietenia mahagoni and Swietenia humilis.",
+        "fun_fact": "Mahogany wood is strong and is usually a source for furniture, musical instruments, ships, doors, coffins, decors.."
+    },
+    "Ficus benghalensis": {
+        "common_name": "Banyan",
+        "inat_common_name": "Indian banyan",
+        "description": "Ficus benghalensis, Ficus indica, or Ficus audrey commonly known as the banyan, banyan fig and Indian banyan, is a tree native to the Indian Subcontinent. Specimens in India are among the largest trees in the world by canopy coverage.",
+        "fun_fact": "Ficus benghalensis is an evergreen,  monoecious, fast-growing tree found mainly in monsoon and rainforests, that can reach a height of up to 30 meters. It is resistant to drought and mild frost."
+    },
+    "Ceiba pentandra": {
+        "common_name": "Cotton Tree",
+        "inat_common_name": "Yellow Kapok",
+        "description": "Ceiba pentandra is a tropical tree of the order Malvales and the family Malvaceae, native to Mexico, Central America and the Caribbean, and the northern half of South America, and widely introduced in other tropical regions including Africa and South and Southeast Asia, where it is cultivated..",
+        "fun_fact": "The tree and the cotton-like fluff obtained from its seed pods are commonly known in English as kapok, a Malay-derived name which originally applied to the related species Bombax ceiba, a native of tropical Asia. In Spanish-speaking countries the tree is commonly known as \"ceiba\" and in French-speaking countries as fromager."
+    },
+    "Cassia fistula": {
+        "common_name": "Cassia",
+        "inat_common_name": "Cassia",
+        "description": "Cassia fistula, also known as golden shower, purging cassia, Indian laburnum, kani konna, or pudding-pipe tree, is a flowering plant in the family Fabaceae. The species is native to the Indian subcontinent and adjacent regions of Southeast Asia.",
+        "fun_fact": "Cassia fistula* is widely known by local names across the Indian subcontinent and other regions due to its prominent medicinal, cultural, and ornamental importance.."
+    },
+    "Delonix regia": {
+        "common_name": "Flamboyant",
+        "inat_common_name": "Flamboyant",
+        "description": "Delonix regia is a species of flowering plant in the bean family Fabaceae, subfamily Caesalpinioideae native to Madagascar. It is noted for its fern-like leaves and flamboyant display of orange-red flowers over summer.",
+        "fun_fact": "Although its country of origin was unknown, it had been in widespread cultivation for centuries. Finally, in 1932, a natural colony was discovered on the west coast of Madagascar by J."
+    },
+    "Jacaranda mimosifolia": {
+        "common_name": "Jacaranda",
+        "inat_common_name": "jacarandas",
+        "description": "Jacaranda mimosifolia is a sub-tropical tree native to south-central South America that has been widely planted elsewhere because of its attractive and long-lasting violet-colored flowers. It is also known as the jacaranda, blue jacaranda, black poui, Nupur or fern tree.",
+        "fun_fact": "In its native range in the wild, J. mimosifolia is listed as Vulnerable by the IUCN."
+    },
+    "Anacardium occidentale": {
+        "common_name": "Cashew",
+        "inat_common_name": "cashew",
+        "description": "Cashew is the common name of a tropical evergreen tree Anacardium occidentale, in the family Anacardiaceae. It is native to South America and is the source of the cashew nut and the cashew apple, an accessory fruit.",
+        "fun_fact": "In 2023, 3.9 million tons of cashew nuts were harvested globally, led by the Ivory Coast and India."
+    },
+    "Theobroma cacao": {
+        "common_name": "Cocoa",
+        "inat_common_name": "cacao tree",
+        "description": "Theobroma cacao is a small evergreen tree in the Malvaceae family. Its seeds—cocoa beans—are used to make chocolate liquor, cocoa solids, cocoa butter and chocolate.",
+        "fun_fact": "The flowers are produced in clusters directly on the trunk and older branches; this is known as cauliflory. The flowers are small, 1–2 cm (3⁄8–13⁄16 in) diameter, with pink calyx."
+    },
+    "Artocarpus altilis": {
+        "common_name": "Breadfruit",
+        "inat_common_name": "Breadfruit",
+        "description": "Breadfruit is a species of flowering tree in the mulberry and jackfruit family (Moraceae) believed to have been selectively bred in Polynesia from the breadnut. Breadfruit was spread into Oceania via the Austronesian expansion and to further tropical areas during the Colonial Era.",
+        "fun_fact": "It is grown in 90 countries throughout South and Southeast Asia, the Pacific Ocean, the Caribbean, Central America and Africa. Its name is derived from the texture of the moderately ripe fruit when cooked, similar to freshly baked bread and having a potato-like flavor."
+    },
+    "Morus alba": {
+        "common_name": "Mulberry",
+        "inat_common_name": "Korean mulberry",
+        "description": "Morus alba, known as white mulberry, common mulberry and silkworm mulberry, is a fast-growing, small to medium-sized mulberry tree which grows to 10–20 m (33–66 ft) tall. It is native to China and India and is widely cultivated and naturalized elsewhere.",
+        "fun_fact": "The white mulberry is widely cultivated to feed the silkworms employed in the commercial production of silk. It is also notable for the rapid release of its pollen, which is launched at greater than half the speed of sound."
+    },
+    "Solanum betaceum": {
+        "common_name": "Tamarillo",
+        "inat_common_name": "tamarillo",
+        "description": "The tamarillo is a tree or shrub in the flowering plant family Solanaceae. It bears an egg-shaped edible fruit.",
+        "fun_fact": "The tamarillo is native to the Andes of Ecuador, Colombia, Peru, Chile, Argentina and Bolivia. Today it is still cultivated in gardens and small orchards for local production, and it is one of the most popular fruits in these regions."
+    },
+    "Moringa oleifera": {
+        "common_name": "Moringa",
+        "inat_common_name": "Moringa trees",
+        "description": "Moringa oleifera is a short-lived, fast-growing, drought-resistant tree of the family Moringaceae, native to northern India and used extensively in South and Southeast Asia. Common names include moringa, drumstick tree, horseradish tree, or malunggay.",
+        "fun_fact": "It is widely cultivated for its young seed pods and leaves, used as vegetables and for traditional herbal medicine. It is also used for water purification."
+    },
+    "Taraxacum officinale": {
+        "common_name": "Dandelion",
+        "inat_common_name": "chicories, dandelions, and allies",
+        "description": "Taraxacum officinale, the dandelion or common dandelion, is a herbaceous perennial flowering plant in the daisy family, Asteraceae. The common dandelion is well known for its yellow flower heads that turn into round balls of many silver-tufted fruit that disperse in the wind.",
+        "fun_fact": "Originally native to Eurasia, as a result of its hardiness and easy propagation, the dandelion has become widely established across several continents. It has been introduced to southern Africa, the Americas, Australia, and New Zealand."
+    },
+    "Trifolium spp.": {
+        "common_name": "Clover",
+        "inat_common_name": "White Sweetclover",
+        "description": "Clovers, also called trefoils, are plants of the genus Trifolium, consisting of about 300 species of flowering plants in the legume family Fabaceae originating in Europe. The genus has a cosmopolitan distribution with the highest diversity in the temperate Northern Hemisphere, but many species also occur in South America and Africa, including at high altitudes on mountains in the tropics.",
+        "fun_fact": "They are small annual, biennial, or short-lived perennial herbaceous plants, typically growing up to 30 cm (12 in) tall. The leaves are trifoliate (rarely, they have more or fewer than three leaflets; the more (or fewer) leaflets the leaf has, the rarer it is; see four-leaf clover), with stipules adnate to the leaf-stalk, and heads or dense spikes of small red, purple, white, or yellow flowers; the small, few-seeded pods are enclosed in the calyx."
+    },
+    "Plantago major": {
+        "common_name": "Plantain Weed",
+        "inat_common_name": "Greater Plantain",
+        "description": "Plantago major, the broadleaf plantain, white man's footprint, waybread, or greater plantain, is a species of flowering plant in the plantain family Plantaginaceae. The plant is native to Eurasia.",
+        "fun_fact": "Plantago major is a herbaceous, perennial plant with a rosette of leaves 15–30 centimetres (6–12 inches), exceptionally 70 centimetres (28 inches), in diameter. Each leaf is oval-shaped, 5–20 cm (2–8 in) long and 4–9 cm (1+1⁄2–3+1⁄2 in) broad, rarely up to 30 cm (12 in) long and 17 cm (7 in) broad, with an acute apex, a smooth margin, and a distinct petiole almost as long as the leaf itself."
+    },
+    "Lantana camara": {
+        "common_name": "Lantana",
+        "inat_common_name": "lantanas",
+        "description": "Lantana camara or “Florida Flower” as is sometimes called, is a species of flowering plant in the verbena family (Verbenaceae), native to the American tropics. It is a very adaptable species, which can inhabit a wide variety of ecosystems; once it has been introduced into a habitat it spreads rapidly; between 45ºN and 45ºS and less than 1,400 metres in altitude.",
+        "fun_fact": "It has spread from its native range to around 50 countries, where it has become an invasive species. It first spread out of the Americas when it was brought to Europe by Dutch explorers and cultivated widely, soon spreading further into Asia and Oceania  where it has established itself as a notorious weed, and in Goa Former Estado da Índia Portuguesa it was introduced by the Portuguese."
+    },
+    "Aloe barbadensis miller": {
+        "common_name": "Aloe Vera",
+        "inat_common_name": "aloe vera",
+        "description": "Aloe vera is a succulent plant species of the genus Aloe. It is widely distributed, and is considered an invasive species in many world regions.",
+        "fun_fact": "Fun-fact not available"
+    },
+    "Ocimum basilicum": {
+        "common_name": "Basil",
+        "inat_common_name": "Sweet basil",
+        "description": "Basil, also called great basil, is a culinary herb of the family Lamiaceae (mints). It is a tender plant, and is used in cuisines worldwide.",
+        "fun_fact": "There are many varieties of basil including sweet basil, Thai basil (O. basilicum var."
+    },
+    "Mentha spp.": {
+        "common_name": "Mint",
+        "inat_common_name": "watermint",
+        "description": "Mint or The Mint may refer to:.",
+        "fun_fact": "Mint (facility), a facility for manufacturing coins."
+    },
+    "Cymbopogon citratus": {
+        "common_name": "Lemongrass",
+        "inat_common_name": "Lemon Grass",
+        "description": "Cymbopogon citratus, commonly known as West Indian lemon grass or simply lemon grass, is a tropical plant native to South Asia and Maritime Southeast Asia and introduced to many tropical regions..",
+        "fun_fact": "Cymbopogon citratus is often sold in stem form. While it can be grown in warmer temperate regions, such as the UK, it is not hardy to frost."
+    },
+    "Thymus vulgaris": {
+        "common_name": "Thyme",
+        "inat_common_name": "balms, mints, and thymes",
+        "description": "Thymus vulgaris is a species of flowering plant in the mint family Lamiaceae, native to southern Europe from the western Mediterranean to southern Italy. Growing to 15–30 cm (6–12 in) tall by 40 cm (16 in) wide, it is a bushy, woody-based evergreen subshrub with small, highly aromatic, grey-green leaves and clusters of purple or pink flowers in early summer.",
+        "fun_fact": "It is useful in the garden as groundcover, where it can be short-lived, but is easily propagated from cuttings. It is also the main source of thyme as an ingredient in cooking and as a herbal medicine."
+    },
+    "Salvia officinalis": {
+        "common_name": "Sage",
+        "inat_common_name": "garden sage",
+        "description": "Salvia officinalis, the common sage or sage, is a perennial, evergreen subshrub, with woody stems, grayish leaves, and blue to purplish flowers. It is a member of the mint family (Lamiaceae) and native to the Mediterranean region, though it has been naturalized in many places throughout the world.",
+        "fun_fact": "Cultivars are quite variable in size, leaf and flower color, and foliage pattern, with many variegated leaf types. The Old World type grows to approximately 60 cm (2 ft) tall and wide, with lavender flowers most common, though they can also be white, pink, or purple."
+    },
+    "Origanum vulgare": {
+        "common_name": "Oregano",
+        "inat_common_name": "Oregano",
+        "description": "Oregano is a species of flowering plant in the mint family, Lamiaceae. It was native to the Mediterranean region, but widely naturalised elsewhere in the temperate Northern Hemisphere.",
+        "fun_fact": "Oregano is a woody perennial plant, growing to 90 cm (35 in) tall, with opposite leaves 1–4 cm (1⁄2–1+1⁄2 in) long. The flowers which can be white, pink or light purple, are 3–4 mm (1⁄8–3⁄16 in) long, and produced in erect spikes in summer."
+    },
+    "Salvia rosmarinus": {
+        "common_name": "Rosemary",
+        "inat_common_name": "Rosemary",
+        "description": "Salvia rosmarinus, commonly known as rosemary, is a shrub with fragrant, evergreen, needle-like leaves and white, pink, purple, or blue flowers. It is a member of the sage family, Lamiaceae.",
+        "fun_fact": "The species is native to the Mediterranean region, as well as Portugal and Spain. It has a number of cultivars and its leaves are commonly used as a flavoring."
+    },
+    "Zingiber officinale": {
+        "common_name": "Ginger",
+        "inat_common_name": "Red Ginger",
+        "description": "Ginger is a flowering plant whose rhizome, ginger root or ginger, is widely used as a spice and a folk medicine. It is an herbaceous perennial that grows annual pseudostems about one meter tall, bearing narrow leaf blades.",
+        "fun_fact": "Ginger is in the family Zingiberaceae, which also includes turmeric (Curcuma longa), cardamom (Elettaria cardamomum), and galangal. Ginger originated in Maritime Southeast Asia and was likely domesticated first by the Austronesian peoples."
+    },
+    "Curcuma longa": {
+        "common_name": "Turmeric",
+        "inat_common_name": "Turmeric",
+        "description": "Turmeric, or Curcuma longa, is a flowering plant in the ginger family Zingiberaceae. It is a perennial, rhizomatous, herbaceous plant native to the Indian subcontinent and Southeast Asia that requires temperatures between 20 and 30 °C and high annual rainfall to thrive.",
+        "fun_fact": "The rhizomes can be used fresh, but they are often boiled in water and dried, after which they are ground into a deep orange-yellow shelf-stable spice powder commonly used as a coloring and flavoring agent in many Asian cuisines, especially for curries (curry powder). Turmeric powder has a warm, bitter, black pepper-like flavor and earthy, mustard-like aroma."
+    },
+    "Coriandrum sativum": {
+        "common_name": "Coriander",
+        "inat_common_name": "coriander",
+        "description": "Coriander, whose leaves are known as cilantro is an annual herb in the family Apiaceae..",
+        "fun_fact": "Most people perceive the leaves as having a fresh, slightly citrus taste. Due to variations in the gene OR6A2, some people perceive it to have a soap-like taste, or even a pungent or rotten taste."
+    },
+    "Trigonella foenum-graecum": {
+        "common_name": "Fenugreek",
+        "inat_common_name": "Fenugreek",
+        "description": "Fenugreek is an annual plant in the family Fabaceae, with leaves consisting of three small obovate to oblong leaflets. It is cultivated worldwide as a semiarid crop.",
+        "fun_fact": "Although a common dietary supplement, no significant clinical evidence suggests that fenugreek has therapeutic properties. Commonly used in traditional medicine, fenugreek can increase the risk of serious adverse effects, including allergic reactions."
+    },
+    "Ocimum tenuiflorum": {
+        "common_name": "Holy Basil",
+        "inat_common_name": "Holy Basil",
+        "description": "Ocimum tenuiflorum, commonly known as tulasi, tulsi, or holy basil, is an aromatic perennial plant in the family Lamiaceae. It is widely cultivated throughout the Southeast Asian tropics.",
+        "fun_fact": "Tulasi is cultivated for religious and traditional medicine purposes, and also for its essential oil. It is widely used as an herbal tea, commonly used in Ayurveda."
+    },
+    "Matricaria chamomilla": {
+        "common_name": "Chamomile",
+        "inat_common_name": "Chamomiles, yarrows, and allies",
+        "description": "Matricaria chamomilla, commonly known as chamomile, German chamomile, Hungarian chamomile (kamilla), wild chamomile, blue chamomile, or scented mayweed, is an annual plant of the composite family Asteraceae. Commonly, the name M.",
+        "fun_fact": "M. chamomilla, historically used in various ancient cultures and commonly promoted today for a range of conditions, shows limited reliable evidence for effectiveness, may have mild side effects or drug interactions, and should be used with caution—especially around allergies, estrogen-sensitive conditions, and during pregnancy."
+    },
+    "Echinacea purpurea": {
+        "common_name": "Echinacea",
+        "inat_common_name": "Echinacea",
+        "description": "Echinacea purpurea, the eastern purple coneflower, purple coneflower, hedgehog coneflower, or Echinacea, is a North American species of flowering plant in the family Asteraceae. It is native to parts of eastern North America and present to some extent in the wild in much of the eastern, southeastern and midwestern United States, as well as in the Canadian Province of Ontario.",
+        "fun_fact": "Echinacea purpurea is an herbaceous perennial up to 120 centimeters (47 inches) tall by 25 cm (10 in) wide at maturity. Depending on the climate, it blooms throughout summer into autumn."
+    },
+    "Mentha × piperita": {
+        "common_name": "Peppermint",
+        "inat_common_name": "Peppermint",
+        "description": "Peppermint is a hybrid species of mint, a cross between watermint and spearmint. Indigenous to Europe and the Middle East, the plant is now widely spread and cultivated in many regions of the world.",
+        "fun_fact": "Although the genus Mentha comprises more than 25 species, the one in most common use is peppermint. While Western peppermint is derived from Mentha ×  piperita, Chinese peppermint, or bohe, is derived from the fresh leaves of M."
+    },
+    "Calendula officinalis": {
+        "common_name": "Calendula",
+        "inat_common_name": "marigolds",
+        "description": "Calendula officinalis, Mary's gold, common marigold, the pot marigold, Scotch marigold, or ruddles, is a flowering plant in the daisy family, Asteraceae. It is probably native to southern Europe, but its long history of cultivation makes its precise origin unknown, and it is widely naturalised.",
+        "fun_fact": "The names marigold and Mary's gold were given by the English people to honour Mary, mother of Jesus, who was said to wear \"a crown of gold that circles the earth\".."
+    },
+    "Achillea millefolium": {
+        "common_name": "Yarrow",
+        "inat_common_name": "common yarrow complex",
+        "description": "Achillea millefolium, commonly known as yarrow or common yarrow, is a flowering plant in the family Asteraceae. Growing to 1 metre tall, it is characterized by small whitish flowers, a tall stem of fernlike leaves, and a pungent odor.",
+        "fun_fact": "The plant is native to temperate regions of the Northern Hemisphere in Asia, Europe, and North America. It has been introduced as a feed for livestock in New Zealand and Australia."
+    },
+    "Urtica dioica": {
+        "common_name": "Nettle",
+        "inat_common_name": "nettle family",
+        "description": "Urtica dioica, often known as common nettle, burn nettle, stinging nettle or nettle leaf, or just a nettle or stinger, is a herbaceous perennial flowering plant in the family Urticaceae. Originally native to Europe, much of temperate Asia and western North Africa, it is now found worldwide.",
+        "fun_fact": "The species is divided into six subspecies, five of which have many hollow stinging hairs called trichomes on the leaves and stems, which act like hypodermic needles, injecting histamine and other chemicals that produce a stinging sensation upon contact (\"contact urticaria\", a form of contact dermatitis).."
+    },
+    "Artemisia absinthium": {
+        "common_name": "Wormwood",
+        "inat_common_name": "absinthe wormwood",
+        "description": "Artemisia absinthium, otherwise known as common wormwood, is a species of Artemisia native to North Africa and temperate regions of Eurasia, and widely naturalized in Canada and the northern United States. It is grown as an ornamental plant and is used as an ingredient in the spirit absinthe and some other alcoholic beverages.",
+        "fun_fact": "Wormwood's relative mugwort was traditionally used as a remedy for a variety of complaints, especially those of a gynaecological nature, and so the wormwood genus bears the name of the Greek goddess of childbirth, Artemis. The specific name derives from apsínthion, the Greek term for the plant."
+    }
+}
