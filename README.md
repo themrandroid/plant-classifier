@@ -9,7 +9,6 @@ The app allows you to:
 - Browse random featured plants by category  
 - Switch between light/dark themes  
 
----
 
 ## Features
 - **Image Classification** → Upload a plant photo and get AI-powered predictions  
@@ -22,7 +21,6 @@ The app allows you to:
 - **Dynamic Gallery** → Random selection of plants shown on each app load  
 - **Rich Plant Info** → Each plant comes with description + fun fact  
 
----
 
 ## Model
 - Trained on **TensorFlow / Keras** with transfer learning  
