@@ -4,13 +4,22 @@ import os
 import numpy as np
 import random
 from PIL import Image
+import tensorflow as tf
 from tensorflow.keras.models import load_model #type: ignore
+
 
 # Load Data + Model
 with open("plant_data.json", "r", encoding="utf-8") as f:
     plant_data = json.load(f)
 
-model = load_model(r"colab\best_finetune_60.keras")
+tflite_model_path = r"colab\best_finetune_60.tflite"
+interpreter = tf.lite.Interpreter(model_path=tflite_model_path)
+interpreter.allocate_tensors()
+
+# Get input and output details
+input_details = interpreter.get_input_details()
+output_details = interpreter.get_output_details()
+
 IMG_SIZE = (224, 224)
 CLASS_NAMES = list(plant_data.keys())
 
@@ -24,10 +33,16 @@ def preprocess_image(image_file):
     return np.expand_dims(img_array, axis=0)
 
 def predict_from_image(image_file, top_k=3):
-    """Predict top-k plants from uploaded image"""
+    """Predict top-k plants from uploaded image using TFLite model"""
     img_tensor = preprocess_image(image_file)
-    preds = model.predict(img_tensor)[0]   # probability vector
-    top_indices = preds.argsort()[-top_k:][::-1]  # top-k indices
+    # set input
+    interpreter.set_tensor(input_details[0]['index'], img_tensor)
+    # run inference
+    interpreter.invoke()
+    # get predictions
+    preds = interpreter.get_tensor(output_details[0]['index'])[0]
+    # top-k
+    top_indices = preds.argsort()[-top_k:][::-1]
     results = [(CLASS_NAMES[i], preds[i]) for i in top_indices]
     return results
 
