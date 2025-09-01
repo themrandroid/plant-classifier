@@ -81,13 +81,18 @@ search_name = None
 uploaded_file = None
 
 with col1:
-    search_name = st.text_input(" Search by Name", placeholder="Enter plant name...")
+    search_name = st.text_input("🔍 Search by Name", placeholder="Enter plant name...")
+
+    selected = None
     if search_name:
-        # Search both scientific & common names
-        matches = [sci for sci, info in plant_data.items()
+        matches = [(sci, info["common_name"]) for sci, info in plant_data.items()
                    if search_name.lower() in sci.lower() or search_name.lower() in info["common_name"].lower()]
+
         if matches:
-            selected = st.selectbox("Select a plant:", matches)
+            st.write("### Matching Plants:")
+            for sci, cname in matches:
+                if st.button(cname, key=cname):
+                    selected = sci
         else:
             selected = None
     else:
