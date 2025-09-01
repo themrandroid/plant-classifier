@@ -81,7 +81,7 @@ search_name = None
 uploaded_file = None
 
 with col1:
-    search_name = st.text_input("🔍 Search by Name", placeholder="Enter plant name...")
+    search_name = st.text_input("Search by Name", placeholder="Enter plant name...")
 
     selected = None
     if search_name:
