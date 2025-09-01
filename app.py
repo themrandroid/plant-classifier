@@ -4,7 +4,7 @@ import os
 import numpy as np
 import random
 from PIL import Image
-import tensorflow as tf
+import tensorflow as tf #type: ignore
 from tensorflow.keras.models import load_model #type: ignore
 
 
@@ -12,7 +12,7 @@ from tensorflow.keras.models import load_model #type: ignore
 with open("plant_data.json", "r", encoding="utf-8") as f:
     plant_data = json.load(f)
 
-tflite_model_path = "colab\best_finetune_60.tflite"
+tflite_model_path = "colab/best_finetune_60.tflite"
 interpreter = tf.lite.Interpreter(model_path=tflite_model_path)
 interpreter.allocate_tensors()
 
@@ -185,5 +185,4 @@ for category, (start, end) in categories.items():
 
                 with col2:
                     st.markdown(f"**{details['common_name']}** *({plant})*")
-
                     st.write(details["description"])
