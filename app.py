@@ -5,7 +5,6 @@ import numpy as np
 import random
 from PIL import Image
 import tensorflow as tf #type: ignore
-from tensorflow.keras.models import load_model #type: ignore
 
 
 # Load Data + Model
@@ -29,8 +28,8 @@ REP_IMG_DIR = "images/representatives"
 def preprocess_image(image_file):
     """Load and preprocess uploaded image for model prediction"""
     image = Image.open(image_file).convert("RGB").resize(IMG_SIZE)
-    img_array = np.array(image) / 255.0
-    return np.expand_dims(img_array, axis=0)
+    img_array = np.array(image, dtype=np.float32)
+    return np.expand_dims(img_array, axis=0).astype(np.float32)
 
 def predict_from_image(image_file, top_k=3):
     """Predict top-k plants from uploaded image using TFLite model"""
